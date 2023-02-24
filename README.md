@@ -27,5 +27,5 @@ cd build
 ## Demo Video
 
 
-https://user-images.githubusercontent.com/53620614/221124210-deb8a301-0248-47ca-8e0e-0767c128f08c.mp4
+
 
