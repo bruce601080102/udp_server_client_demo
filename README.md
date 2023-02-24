@@ -1,4 +1,4 @@
-## backoff algorithm set
+## Backoff Algorithm Info
 ```conf
 multiplier = 2
 base = 500msmax 
