@@ -1,7 +1,7 @@
 ## Backoff Algorithm Info
 ```conf
 multiplier = 2
-base = 500msmax 
+base = 500 ms
 wait_interval = 8s
 max-retry = 6
 ```
